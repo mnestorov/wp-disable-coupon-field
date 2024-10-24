@@ -6,6 +6,8 @@
  * Version:              1.0.0
  * Author:               Martin Nestorov
  * Author URI:           https://github.com/mnestorov
+ * License:     	 GPL-2.0+
+ * License URI: 	 http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:          mn-woocommerce-disable-coupon-field
  * Domain Path:          /languages/
  * WC requires at least: 3.0.0
