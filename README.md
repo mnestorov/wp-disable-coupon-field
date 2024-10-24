@@ -146,4 +146,4 @@ For a detailed list of changes and updates made to this project, please refer to
 
 ## License
 
-This project is released under the MIT License.
+This project is released under the [GPL-2.0+ License](http://www.gnu.org/licenses/gpl-2.0.txt).
