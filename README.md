@@ -22,7 +22,7 @@ The WooCommerce Disable Coupon Field plugin allows you to deactivate the coupon 
 
 ## Installation
 
-1. Upload the `woocommerce-disable-coupon-field` folder to the `/wp-content/plugins/` directory.
+1. Upload the `wp-disable-coupon-field` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Go to the WooCommerce->Disable Coupon menu to configure the plugin.
 
