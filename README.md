@@ -2,7 +2,7 @@
 
 # WordPress - Disable Coupon Field for WooCommerce
 
-[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+[![Licence](https://img.shields.io/badge/LICENSE-GPL2.0+-blue)](./LICENSE)
 
 - Developed by: [Martin Nestorov](https://github.com/mnestorov)
 - Plugin URI: https://github.com/mnestorov/wp-disable-coupon-field
